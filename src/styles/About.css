@@ -1,0 +1,32 @@
+.about {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.aboutTop {
+  width: auto;
+  height: auto;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  width: 100%;
+  height: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.aboutBottom h1 {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.aboutBottom p {
+  text-align: justify;
+  margin: 5px 5px;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
