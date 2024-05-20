@@ -12,7 +12,7 @@ function Contact() {
         <form id='contactForm' method='POST'>
           <label htmlFor='name'>Full Name</label>
           <input name='name' placeholder='Enter full name...' type='text'/>
-          <label htmlFor='email'>agulugard@gmail.com</label>
+          <label htmlFor='email'>example@gmail.com</label>
           <input email='email' placeholder='Enter email...' type='email'/>
           <label htmlFor='message'>Message</label>
           <textarea
